@@ -180,7 +180,7 @@ Backend: https://github.com/nathanstack24/crumble
 ## Filled
 Ruiqi Zhu	rz327	Backend\
 Hantian Zhang	hz467	iOS\
-Kaishuo Chen	kc673	iOS\
+Kaishuo Cheng	kc673	iOS\
 Xinyue Wang	xw528	Backend
 
 iOS: https://github.com/serenawangCU/FilledApp
