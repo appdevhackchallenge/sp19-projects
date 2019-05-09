@@ -190,7 +190,7 @@ Backend: https://github.com/serenawangCU/FilledApp
 ## Cornell Grant App	
 Robinson Burrell III "Trey"	rb685	Backend\
 Rainer Sainvil	rs2342	Backend\
-Steiner Abayie	sa669	iOS\
+Steiner Abayie	sa669	iOS
 
 iOS: https://github.com/treyburrell/HackChallenge2019
 
@@ -227,7 +227,7 @@ iOS: https://github.com/TrueshotBarrage/studybuddy
 Backend: https://github.com/pnor/cure-backend
 
 ## Cure
-Young Kim	yk465	iOS\ 
+Young Kim	yk465	iOS\
 Yanlam Ko	yk396	Design\
 Phillip O'Reggio	pno3	Backend
 
